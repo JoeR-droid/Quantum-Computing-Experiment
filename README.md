@@ -1,1 +1,2 @@
 # Quantum-Computing-Experiment
+I built a quantum circuit with a Hadamard gate and measurement, then ran it on `ibm_kingston` — a real 127-qubit quantum computer. Out of 1,024 runs, the qubit collapsed to 0 481 times and to 1 543 times (~47% / ~53%). The near-50/50 split confirms the qubit was in superposition before measurement.
